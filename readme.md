@@ -33,8 +33,8 @@ Durante o projeto foram analisadas diversas fontes de dados meteorológicos púb
 
 Fontes:
 
-https://portal.inmet.gov.br/dadoshistoricos
-https://tempo.inmet.gov.br/TabelaEstacoes
+- https://portal.inmet.gov.br/dadoshistoricos
+- https://tempo.inmet.gov.br/TabelaEstacoes
 
 
 Scripts implementados:
@@ -54,7 +54,7 @@ Dados relacionados a:
 
 Fonte:
 
-https://mapainterativo.cemaden.gov.br/
+- https://mapainterativo.cemaden.gov.br/
 
 
 Script implementado:
